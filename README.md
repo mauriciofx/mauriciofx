@@ -8,7 +8,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://devicons.io/devicons/icons/typescript-icon.svg"> 
   <img align="center" alt="React" height="30" width="40" src="https://devicons.io/devicons/icons/react.svg"> 
   <img align="center" alt="NextJS" height="30" width="40" src="https://devicons.io/devicons/icons/nextjs-icon.svg"> 
@@ -16,6 +15,7 @@
   <img align="center" alt="Supabase" height="30" width="40" src="https://devicons.io/devicons/icons/supabase-icon.svg"> 
    <img align="center" alt="PostgreSql" height="30" width="40" src="https://devicons.io/devicons/icons/postgresql.svg">
    <img align="center" alt="Docker" height="30" width="40" src="https://devicons.io/devicons/icons/docker-icon.svg">
+   <img align="center" alt="n8n" height="30" width="40" src="https://devicons.io/devicons/icons/n8n-icon.svg">
 
 
 </div>
